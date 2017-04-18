@@ -1,8 +1,6 @@
 
-Test GiTHub testiranje  podesavanje i svegA OST
+Test GiTHub testiranje  podesavanje i svegA Ostala
 
 TEST
-
-
 
 
